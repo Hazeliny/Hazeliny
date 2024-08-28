@@ -19,6 +19,8 @@
 ![PIPEX](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png)
 ![FDF](https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png)
 ![PUSH_SWAP](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png)
+![BORB2BEROOT](https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png)
+![GET_NEXT_LINE](https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png)
 ![FT_PRINTF](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfe.png)
 ![LIBFT BADGE](https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png)
 
