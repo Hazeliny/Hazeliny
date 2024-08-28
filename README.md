@@ -1,4 +1,4 @@
-<h1 align="center">👋,Hi there, I'm Lin</h1>
+<h1 align="center">👋 Hi there, I'm Lin</h1>
 <h3 align="center">A passionate software developer with a focus on AI including machine learning, deep learning and LLM, data science, algorithms etc</h3>
 
 - 🔭 I’m currently working on **Minishell in 42Barcelona**
