@@ -16,6 +16,8 @@
 
 <h3 align="left">Finished Projects:</h3>
 
+![PIPEX](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png)
+![FDF](https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png)
 ![PUSH_SWAP](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png)
 ![LIBFT BADGE](https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png)
 
