@@ -13,8 +13,11 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/lin-yao-51722a270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lin-yao-51722a270/" height="30" width="40" /></a>
 </p>
-![libft badge](https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png)
+
 <h3 align="left">Finished Projects:</h3>
+
+![LIBFT BADGE](https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png)
+
 <p align="left"> <a href="https://intra.42.fr" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 
 <h3 align="left">Languages and Tools:</h3>
