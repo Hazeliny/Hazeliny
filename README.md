@@ -19,6 +19,7 @@
 ![PIPEX](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png)
 ![FDF](https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png)
 ![PUSH_SWAP](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swapm.png)
+![FT_PRINTF](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_printfm.png)
 ![LIBFT BADGE](https://github.com/ayogun/42-project-badges/blob/main/badges/libftm.png)
 
 
