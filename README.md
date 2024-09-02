@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Philosophers & Minishell in 42Barcelona**
 
-- 🌱 I’m currently learning **LLM, Machine learning, Deep learning**
+- 🌱 I’m currently learning **LLM, Machine Learning, Deep Learning**
 
 - 👯 I’m looking to collaborate on **friendly, creative, proactive group**
 
