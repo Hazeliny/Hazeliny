@@ -16,8 +16,8 @@
 
 <h3 align="left">Finished Projects:</h3>
 <a><img align="center" src="https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png"></a>
-![PHILOSOPHERS](https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png?raw=true)
-![PIPEX](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png)
+<a><img align="https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png"></a>
+
 ![FDF](https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png)
 ![PUSH_SWAP](https://github.com/ayogun/42-project-badges/blob/main/badges/push_swape.png)
 ![BORN2BEROOT](https://github.com/ayogun/42-project-badges/blob/main/badges/born2berootm.png)
