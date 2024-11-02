@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Lin</h1>
 <h3 align="center">A passionate software developer with a focus on FullStack, Backend and AI including ML, DL and LLM, data science, algorithms etc</h3>
 
-- 🔭 I’m currently working on **Minishell in 42Barcelona**
+- 🔭 I’m currently working on **miniRT y CPP Modules in 42Barcelona**
 
 - 🌱 I’m currently learning **all about Fullstack, Algorithm, LLM, ML, Deep Learning**
 
@@ -16,6 +16,7 @@
 
 <h3 align="left">Finished Projects:</h3>
 
+![MIMNISHELL](https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png)
 ![PHILOSOPHERS](https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png)
 ![PIPEX](https://github.com/ayogun/42-project-badges/blob/main/badges/pipexm.png)
 ![FDF](https://github.com/ayogun/42-project-badges/blob/main/badges/fdfm.png)
