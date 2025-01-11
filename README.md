@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Lin</h1>
 <h3 align="center">A passionate software developer with a focus on FullStack, AI including ML, DL and LLM, data science, algorithms etc</h3>
 
-- 🔭 I’m currently working on **miniRT y CPP Modules in 42Barcelona**
+- 🔭 I’m currently working on **Inception y CPP Modules in 42Barcelona**
 
 - 🌱 I’m currently learning **all about Fullstack, Algorithm, LLM, ML, Deep Learning**
 
