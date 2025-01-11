@@ -16,7 +16,8 @@
 
 <h3 align="left">Finished Projects:</h3>
 
-![CPP](https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png)
+![MINIRT](https://github.com/ayogun/42-project-badges/raw/main/badges/minirtm.png)
+![NETPRACTICE](https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png)
 ![CPP](https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png)
 ![MIMNISHELL](https://github.com/ayogun/42-project-badges/blob/main/badges/minishellm.png)
 ![PHILOSOPHERS](https://github.com/ayogun/42-project-badges/blob/main/badges/philosophersm.png)
