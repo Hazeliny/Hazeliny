@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Lin</h1>
 <h3 align="center">A passionate software developer with a focus on FullStack, AI including ML, DL and LLM, data science, algorithms etc</h3>
 
-- 🔭 I’m currently working on **Inception y irc networking programming in 42Barcelona**
+- 🔭 I’m currently working on **FT_TRANSCENDENCE (Full Stack) in 42Barcelona**
 
 - 🌱 I’m currently learning **all about Fullstack, Data engineering, Algorithm, LLM, ML, Deep Learning**
 
@@ -16,6 +16,9 @@
 
 <h3 align="left">Finished Projects:</h3>
 
+
+![INCEPTION](https://github.com/ayogun/42-project-badges/blob/main/badges/inceptionm.png)
+![FT_IRC](https://github.com/ayogun/42-project-badges/blob/main/badges/ft_ircm.png)
 ![MINIRT](https://github.com/ayogun/42-project-badges/raw/main/badges/minirtm.png)
 ![NETPRACTICE](https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png)
 ![CPP](https://github.com/ayogun/42-project-badges/blob/main/badges/cppm.png)
