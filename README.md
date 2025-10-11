@@ -3,7 +3,7 @@
 
 - 🔭 I’ve already finished **all the projects of COMMON CORE in 42Barcelona**
 
-- 🌱 I’m currently learning **all about Fullstack, Data engineering, Algorithm, LLM, ML, Deep Learning**
+- 🌱 I’m currently learning **all about Fullstack Web Application, Algorithm, LLM, ML, Deep Learning**
 
 - 👯 I’m looking to collaborate on **friendly, creative, proactive group**
 
